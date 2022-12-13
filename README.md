@@ -45,4 +45,4 @@ If you find our paper helpful in your research, please cite:
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details
 
 ## Acknowledgements
-This code is build on [Frozen in time](https://github.com/m-bain/frozen-in-time) and [MAE](https://github.com/facebookresearch/mae), We thank the authors for their awesome projects
+This code is built on [Frozen in time](https://github.com/m-bain/frozen-in-time) and [MAE](https://github.com/facebookresearch/mae), we thank the authors for their awesome projects
